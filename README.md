@@ -1,4 +1,4 @@
-# FINTRACK Full-Stack Application Project Template
+# FINTRACK Full-Stack Application Project Template.
 
 ## Learning Goals
 
